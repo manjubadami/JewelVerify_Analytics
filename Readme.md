@@ -5,6 +5,13 @@ This application leverages **Google Gemini 3 Flash Preview** to digitize physica
 
 ---
 
+## 💡 Problem Statement & Motivation
+The idea for this application originated from a real-world challenge observed during frequent visits to jewelry stores. Store staff were repeatedly required to manually calculate ornament prices based on both the current gold rate and customer savings-plan rates, while also applying various scheme rules to determine customer savings.
+
+To streamline this repetitive and time-consuming process, the application was developed to automate jewelry pricing, savings calculations, and benefit comparisons. This created a win-win solution by reducing operational effort for store staff while improving transparency and customer satisfaction through instant analysis of savings.
+
+---
+
 ## 🛠️ Tech Stack
 *   **Frontend/UI**: [Streamlit](https://streamlit.io/) (Python-based web framework)
 *   **AI Engine**: [Google Generative AI (Gemini Pro Vision)](https://ai.google.dev/)
@@ -84,6 +91,13 @@ The application uses the following formulas for transparency:
     *   *> 12 Months*: 0% VA.
 
 ---
+
+## ⚙️ Future Enhancements
+*	Planned integration with live gold-rate APIs to automatically retrieve current and historical gold prices based on selected dates, reducing manual input and improving pricing accuracy.
+*	Deploy the application as a cloud-based solution for multi-device access across jewelry stores.
+*	Add predictive analytics to estimate future savings and gold price trends.
+
+--- 
 
 ## 🛡️ Privacy & Security
 *   **Data Processing**: Images uploaded are processed via the Google Gemini API. No images are permanently stored on the server.
