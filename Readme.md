@@ -1,7 +1,7 @@
 # 💍 JewelVerify Analytics
 **Automated jewelry tag extraction with real-time benefit analysis.**
 
-This application leverages **Google Gemini 1.5 Flash** to digitize physical jewelry tags via computer vision and provides instant pricing comparisons against historical gold savings plans.
+This application leverages **Google Gemini 3 Flash Preview** to digitize physical jewelry tags via computer vision and provides instant pricing comparisons against historical gold savings plans.
 
 ---
 
