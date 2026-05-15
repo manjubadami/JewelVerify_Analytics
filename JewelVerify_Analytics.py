@@ -23,7 +23,7 @@ model = genai.GenerativeModel('gemini-3-flash-preview')
 # Page Configuration for Mobile
 st.set_page_config(
     layout="centered", 
-    page_title="Glint AI: Smart Pricing",
+    page_title="Glint AI",
     page_icon="💍"
 )
 
