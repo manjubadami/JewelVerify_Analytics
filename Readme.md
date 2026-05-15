@@ -106,5 +106,5 @@ The application uses the following formulas for transparency:
 ---
 
 ## Mobile App Functionality in Action
-![Mobile App Preview](MobileApp.gif)
+![Mobile App Preview](images/MobileApp.gif)
 
