@@ -117,7 +117,7 @@ def calculate_plan_va(base_va: int, plan_date: date) -> int:
 # ==========================================
 
 def main():
-    st.title("💍 Glint AI Pricing")
+    st.title("💍 Glint AI")
     st.caption("Professional Gold Tag Digitization & Benefit Analysis")
 
     # Mobile-optimized mode selector
