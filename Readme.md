@@ -102,3 +102,9 @@ The application uses the following formulas for transparency:
 ## 🛡️ Privacy & Security
 *   **Data Processing**: Images uploaded are processed via the Google Gemini API. No images are permanently stored on the server.
 *   **Secrets Management**: API Keys are managed via Streamlit's encrypted Secrets management system and are never hardcoded.
+
+---
+
+## Mobile App Functionality in Action
+![Mobile App Preview](MobileApp.gif)
+
