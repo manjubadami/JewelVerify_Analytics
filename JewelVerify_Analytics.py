@@ -58,6 +58,9 @@ def extract_values_with_llm(uploaded_file):
     fields from a physical jewelry tag image.
     """
     img = Image.open(uploaded_file)
+    # Downscale the image locally to speed up execution and reduce memory usage
+    max_size = (1024, 1024)
+    img.thumbnail(max_size, Image.Resampling.LANCZOS)
     prompt = """
     Analyze this jewelry tag and extract these three specific fields:
     - Nw (Net Weight as float)
