@@ -106,5 +106,18 @@ The application uses the following formulas for transparency:
 ---
 
 ## Mobile App Functionality in Action
-![Mobile App Preview](images/MobileApp.gif)
+<table border="0">
+  <tr valign="top">
+    <td width="55%">
+      <img src="images/MobileApp.gif" width="100%" />
+    </td>
+    <td width="35%">
+      <img src="images/Tag.png" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile App Demo</b></td>
+    <td align="center"><b>Sample Tag Image</b></td>
+  </tr>
+</table>
 
